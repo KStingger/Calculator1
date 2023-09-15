@@ -139,6 +139,6 @@ body{
 
 @media(max-width: 800px){
     main-box {
-       width: 50%;
+       width: 100%;
     }
 }
