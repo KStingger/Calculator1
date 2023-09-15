@@ -6,8 +6,8 @@ body{
 }
 
 .main-box{
-    width: 50%;
-    box-shadow: 0 0 5px gray, inset o o 10px black;
+    width: 30%;
+    box-shadow: 0 5px gray, inset 0 0 10px black;
     height: 95vh;
     color: white;
     font-weight: 500;
@@ -138,7 +138,7 @@ body{
 }
 
 @media(max-width: 800px){
-    body {
+    .main-box {
        width: 100%;
     }
 }
