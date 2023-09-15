@@ -6,7 +6,7 @@ body{
 }
 
 .main-box{
-    width: 100%;
+    width: 50%;
     box-shadow: 0 0 5px gray, inset o o 10px black;
     height: 95vh;
     color: white;
